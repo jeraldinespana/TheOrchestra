@@ -1,1 +1,160 @@
+This game requires Unity’s 6000.0.24f1 editor version as well as any computer. It also requires the script to be put in each Dialogue Line 
+attached to specific characters as well as the Game Manager. Though intended to be played with headphones, I got to see people have lots of 
+fun playing side by side and listening to the music out loud together.
 
+The script is as follows (of course, this is a lot to put in yourself, but video gameplay will be provided as well to watch):
+
+Alejandro:
+Ah, another one. Sit down, sit down!
+I am Alejandro. It's nice to see a new face.
+I have been waiting for six months now…
+...all for my first audition.
+They keep asking me for more documents.
+It never seems like it's enough.
+It's good to be thorough...
+...I guess.
+You might be here a while.
+Don't be surprised if you end up waiting years for a chance-
+
+Jing:
+Do not let Alejandro scare you.
+My name is Jing. It's my 4th time auditioning.
+The conductor is not so bad.
+He just wants to see that you really want this.
+That you are deserving. He's a tough one, for sure.
+Huh?
+You're being called in?
+So soon after your arrival?
+Oh my...
+Well, good luck then.
+
+Conductor:
+....Next.
+You will play what is written.
+Nothing more....
+nothing less.
+Begin.
+
+–Mini Game attempt–
+
+Conductor:
+Insufficient.
+Not what I was looking for at all, actually.
+You have completely missed the standard required for my orchestra.
+You may try again when I have time.
+
+–Back in Waiting Room–
+Alejandro:
+Wow.
+I've heard similar from others.
+The rules change every time you come back.
+That is the catch.
+But you keep showing up. That is what matters.
+Wait-
+Again?
+Boy, aren't you lucky.
+To be called back in so soon!
+You've surely made our 5 months together feel like 5 seconds.
+
+Conductor:
+You again.
+How long has it been?
+Hmph...
+Let's hope you're ready this time.
+My standards have only increased since last time.
+Begin.
+
+–Mini Game attempt–
+
+Conductor:
+Closer.
+But not close enough.
+The orchestra requires certainty...
+...that you will always play your best.
+And your best,
+Well,
+It wasn't good enough.
+Come back when you really mean business.
+
+–Back in Waiting Room–
+
+Jing:
+Fourth audition? My, we are long past.
+I am on my 9th attempt.
+How long has it been since we've last chat?
+I wonder...
+Regardless,
+These auditions...
+They're never about the music, are they?
+Because even when you pass,
+You'll be stuck proving yourself for eternity.
+Oh.
+It looks like you're up again.
+Good Luck.
+
+Conductor:
+I'm surprised to see you.
+You've really returned?
+Most do not make it this far.
+They give up after a couple months.
+Maybe even years.
+Begin.
+
+–Mini Game attempt–
+
+WINNING SEQUENCE:
+
+Conductor:
+...
+Well...
+That was...
+Good.
+Welcome to the Orchestra....
+MY Orchestra.
+Remember, I can always remove you...
+If you fail to meet my standards.
+
+Narrator:
+The Conductor has stamped your papers.
+You are official now.
+Just remember,
+Alejandro and Jing...
+are still waiting.
+They play just as well as you do.
+But luck hasn't given them the chance to prove it.
+And there are so many like them.
+There are as many as 15 million undocumented immigrants in the US.
+Wishing to live the American dream.
+Some have been waiting over 10 years.
+Just for a chance.
+Remember...
+to extend kindness to others.
+Thanks for playing!
+
+
+LOSE SEQUENCE:
+
+Conductor:
+The Orchestra has made its decision.
+Maybe next...year?
+Too bad.
+Go back to the waiting room.
+Until next time.
+
+Narrator:
+The door closes.
+You can audition next season...or maybe the one after.
+Alejandro slides over to make room for you.
+Jing is nowhere to be found.
+You hear they made the orchestra some time ago.
+Alejandro waits for his first audition...
+as you wait for yours.
+And there are so many like you.
+There are as many as 15 million undocumented immigrants in the US.
+Wishing to live the American dream.
+Some have been waiting over 10 years.
+And will continue to wait.
+Just for a chance.
+Remember...
+to extend kindness to others.
+Thanks for playing!
